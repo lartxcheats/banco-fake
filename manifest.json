@@ -2,7 +2,7 @@
   "name": "Mercado Pago",
   "short_name": "MP",
   "description": "Aplicativo Mercado Pago",
-  "start_url": "/mercadopago.html",
+  "start_url": "/banco-fake/mercadopago.html",
   "display": "standalone",
   "background_color": "#FFE600",
   "theme_color": "#FFE600",

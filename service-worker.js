@@ -1,16 +1,16 @@
 const CACHE_NAME = 'mercadopago-v1';
 const urlsToCache = [
-  '/mercadopago.html',
-  '/mercadopago.css',
-  '/mercadopago.js',
-  '/logomp.png',
-  '/casinha.png',
-  '/catao.png',
-  '/pix2.png',
-  '/pagamento.png',
-  '/mais.png',
-  '/images.png',
-  '/cartao.jpeg'
+  '/banco-fake/mercadopago.html',
+  '/banco-fake/mercadopago.css',
+  '/banco-fake/mercadopago.js',
+  '/banco-fake/logomp.png',
+  '/banco-fake/casinha.png',
+  '/banco-fake/catao.png',
+  '/banco-fake/pix2.png',
+  '/banco-fake/pagamento.png',
+  '/banco-fake/mais.png',
+  '/banco-fake/images.png',
+  '/banco-fake/cartao.jpeg'
 ];
 
 self.addEventListener('install', event => {
